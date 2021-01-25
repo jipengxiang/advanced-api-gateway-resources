@@ -1,6 +1,6 @@
 # advanced-api-gateway-resources
 Cloud Academy - Advanced API Gateway
-https://cloudacademy.com/lab/restful-microservices-aws-lambda-api-gateway/?context_resource=lp&context_id=241
+https://cloudacademy.com/course/advanced-use-of-amazon-api-gateway/creating-dynamodb-table-and-lambda-functions/
 
 Description
 Amazon API Gateway allows you to design RESTful interfaces and connect them to your favorite backend. You can design your own resources structure, add dynamic routing parameters, and develop custom authorizations logic. Each API resource can be configured independently, while each stage can have specific cache, throttling, and logging configurations.
