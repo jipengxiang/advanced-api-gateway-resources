@@ -66,4 +66,7 @@ September 5, 2018 - Improved Lab instructions format and clarity. Updated instru
 
 https://cloudacademy.com/lab/restful-microservices-aws-lambda-api-gateway/?context_resource=lp&context_id=241
 
+![polly](https://docs.amazonaws.cn/en_us/sdk-for-javascript/v2/developer-guide/images/browserscenario.png)
+
+
 
