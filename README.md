@@ -34,5 +34,5 @@ Sr. Software Engineer
 Tehreem is a Sr. Software Engineer with passion in Cloud Technologies, Big Data analytics, Software Testing and Automation. She has over 10 years of work experience comprising of her tenure at ServiceNow, Microsoft and Harmonic Inc. Most recently she has been developing learning content in-line with the emergence of Public Clouds and XaaS platforms with focus on AWS, Microsoft Azure and GCP. Tehreem resides in BayArea, CA with her family and when not working she enjoys nature/outdoors, movies and fine dining.
 
 ![after image](https://assets.cloudacademy.com/bakery/media/uploads/laboratories/environment_start_images/before_L6y0zJY.png)
-https://assets.cloudacademy.com/bakery/media/uploads/laboratories/environment_end_images/After_kkGvc81.png
+![after iamge](https://assets.cloudacademy.com/bakery/media/uploads/laboratories/environment_end_images/After_kkGvc81.png)
 
