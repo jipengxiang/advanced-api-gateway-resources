@@ -40,7 +40,9 @@ Amazon API Gateway allows you to design RESTful interfaces and connect them to y
 
 This approach is particularly useful when you consider that each request and response can be attached to a custom mapping template, in order to perform custom data manipulation or improve API backward compatibility.
 
-In this Lab, you will see how to define a simple API and how to connect it to AWS Lambda. This provides a nice way to obtain a scalable backend for modern web applications or mobile apps. You will configure custom stages, protect resources with an API key, and explain how to best connect API Gateway stages with AWS Lambda versions and aliases. You will learn about AWS Lambda's basic configuration, monitoring, and versioning as you progress through the Lab.
+In this Lab, you will see how to define a simple API and how to connect it to AWS Lambda. This provides a nice way to obtain a scalable backend for modern web applications or mobile apps. You will configure custom stages, protect resources with an API key, and explain how to best connect API Gateway stages with AWS Lambda versions and aliases.
+(reference :Using API Gateway stage variables to manage Lambda functions,https://aws.amazon.com/blogs/compute/using-api-gateway-stage-variables-to-manage-lambda-functions/)
+ You will learn about AWS Lambda's basic configuration, monitoring, and versioning as you progress through the Lab.
 
 Lab Objectives
 Upon completion of this Lab, you will be able to:
